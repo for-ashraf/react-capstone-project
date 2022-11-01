@@ -15,12 +15,12 @@ This is a react web app. In this project users can  look up and explore the deta
 - API
 
 ## Live Demo 
-
+https://6360baa5e1908449ae42376b--chimerical-moonbeam-ad16c8.netlify.app/
 
 
 ## Demo Video
 
-[Demo Video](https://www.loom.com/share/028d8bdff0d442dbaf9056df4c55ebe7)
+[Demo Video](https://www.loom.com/share/37e39cfffbc04a92841ed4cd76135046)
 
 ## Getting Started
 - Clone repository in your local machine
