@@ -1,7 +1,6 @@
 # Comic Heros
 
-This is a react web app where users can look up for Comic Heros and their capabilities. This App has been developed using React-Redux and fetching API data from the https://www.marvel.com/
-
+This is a react web app. In this project users can  look up and explore the details of the continents and the countries
 
 ## Built With
 ![](https://img.shields.io/badge/-HTML-orange) ![](https://img.shields.io/badge/-CSS-blue) ![](https://img.shields.io/badge/-JavaScript-yellow) ![](https://img.shields.io/badge/-React-cyan)
@@ -39,7 +38,7 @@ This is a react web app where users can look up for Comic Heros and their capabi
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/for-ashraf/react-capstone-arxiv-api-/issues).
+Feel free to check the [issues page](https://github.com/for-ashraf/react-capstone-project/issues).
 
 ## Show your support
 
@@ -55,4 +54,4 @@ Give a ⭐️ to if you like this project!
 
 ## 📝 License
 
-This project is [MIT]https://github.com/for-ashraf/react-capstone-arxiv-api/blob/Dev/LICENSE.md) licensed.
+This project is [MIT]https://github.com/for-ashraf/react-capstone-project/blob/Dev/LICENSE.md) licensed.
